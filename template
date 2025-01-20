@@ -31,14 +31,14 @@
 ##############################################################################
 # Template file for 'ccze'
 pkgname=ccze
-version=1.0.0
-revision=1
+version=0.2.1
+revision=13
 noarch=true
 #build_style=gnu-makefile
 #depends="gtk+3 gnome-bluetooth python3-setproctitle rfkill xapps"
 #hostmakedepends="gettext"
 hostmakedepends="git"
-short_desc="Chili PKGBUILD and template for VoidLinux"
+short_desc="Robust and modular log colorizer with many plugins"
 maintainer="Vilmar Catafesta <vcatafesta@gmail.com>"
 license="MIT"
 homepage="https://github.com/chililinux/${pkgname}"

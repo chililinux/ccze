@@ -1,3 +1,3 @@
-# chili-pkgbuild-template
+# ccze
 
-Template for Chili Linux packages
+Robust and modular log colorizer with many plugins
